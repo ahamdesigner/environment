@@ -1,2 +1,3 @@
 # environment
-set up environment for code
+set up environment import vasthu
+विग्रह परीक्षा वास्तु
